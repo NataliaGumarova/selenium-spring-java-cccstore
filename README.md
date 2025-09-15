@@ -111,7 +111,7 @@ Text Text Text[^1]
 Text Text Text[^2]
 
 [^1]: Text Text Text
-[^2}: Text Text Text
+[^2]: Text Text Text
 
 
 > [!NOTE]
